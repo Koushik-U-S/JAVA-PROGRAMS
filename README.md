@@ -26,7 +26,7 @@ lab3a output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/b5c757ac3a
 
 lab3b1 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/62bf33dd7b89d4ff2f2a86763763ed05af9c086c/lab3b1.png
 
-lab3b2 output link -
+lab3b2 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/4762747d859e01f39c14e1c8205135fa3392f5a0/lab3b2.png
 
 lab3b3 output link
 
