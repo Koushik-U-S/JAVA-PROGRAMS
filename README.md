@@ -1,4 +1,4 @@
-k1 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/422e05e23bb2380344e49b73cee0c945d82fdc3d/k1.png
+lab k1 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/422e05e23bb2380344e49b73cee0c945d82fdc3d/k1.png
 
 k2 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/6c6d891651465150aaf16f58b9a98d1f2e1f718c/k2.png
 
@@ -18,14 +18,14 @@ p9 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/4b6b7c99e082a
 
 p10 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/fd8bdf5306224471ee47009c66288ebaad7786cf/p10.png
 
-p1 output link -
+lab2a output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/eddf9ff436ea520de9b14410ec5fa70cefffb5eb/lab2a.png
 
-p1 output link -
+lab2b output link - 
 
-p1 output link -
+lab3a output link -
 
-p1 output link -
+lab3b1 output link -
 
-p1 output link -
+lab3b2 output link -
 
 
