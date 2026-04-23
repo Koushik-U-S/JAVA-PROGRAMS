@@ -72,7 +72,7 @@ lab4b output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/1f327ed874
 
 9a output link   - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/b609d1afee01b9271a2b81d5e67c916c075b2541/9a.png
 
-9b output link   -
+9b output link   - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/7859a553466447fcc219866b81813cd8a13f1365/9b.png
  
 9c output link   -
 
