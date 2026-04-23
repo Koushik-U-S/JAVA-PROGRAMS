@@ -60,7 +60,7 @@ lab4b output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/1f327ed874
 
 6b output link    - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/3f675f790d484f930d26a2e5970ea23aa323d986/6b.png
 
-6c output link    -
+6c output link    - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/accf1da7e352da9f4fea3648fee0cf499dfb13fb/6c.png
 
 7a output link    -
 
