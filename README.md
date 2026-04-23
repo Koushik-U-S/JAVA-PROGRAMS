@@ -20,7 +20,7 @@ p10 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/fd8bdf530622
 
 lab2a output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/eddf9ff436ea520de9b14410ec5fa70cefffb5eb/lab2a.png
 
-lab2b output link - 
+lab2b output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/eec85f6c419ca351171d578920bd0dc440b794eb/lab2b.png
 
 lab3a output link -
 
