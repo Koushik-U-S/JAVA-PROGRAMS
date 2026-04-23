@@ -8,7 +8,7 @@ p4 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/3a1315e3de02a
 
 p5 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/ccebde2554a9dd8c72ee1b3b1dfc676d511f50cc/p5.png
 
-p6 output link -
+p6 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/a9fa6c1ef9d53b2eedf0ab555a87f866a7966e76/p5.png
 
 p7 output link -
 
