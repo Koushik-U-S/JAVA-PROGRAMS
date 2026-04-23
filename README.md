@@ -6,7 +6,7 @@ p3 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/13a4ff54dcaba
 
 p4 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/3a1315e3de02a1e917937afa149ae034b7ed25c5/p4.png
 
-p5 output link -
+p5 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/ccebde2554a9dd8c72ee1b3b1dfc676d511f50cc/p5.png
 
 p6 output link -
 
