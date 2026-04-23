@@ -24,25 +24,25 @@ lab2b output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/eec85f6c41
 
 lab3a output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/b5c757ac3a51b8a23f5ce5f1fd854e4912673690/lab3a.png
 
-lab3b1 output link -
+lab3b1 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/62bf33dd7b89d4ff2f2a86763763ed05af9c086c/lab3b1.png
 
 lab3b2 output link -
 
-lab3b2 output link
+lab3b3 output link
 
-lab3b2 output link
+lab3b4 output link
 
-lab3b2 output link
+lab3b5 output link
 
-lab3b2 output link
+lab3c1 output link
 
-lab3b2 output link
+lab3c2 output link
 
-lab3b2 output link
+lab3c3 output link
 
-lab3b2 output link
+lab3c4 output link
 
-lab3b2 output link
+lab3c5 output link
 
 lab3b2 output link
 
