@@ -52,7 +52,7 @@ lab4b output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/1f327ed874
 
 5b output link    - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/04984aac07ffac33a1b65deb989d232a1031013e/5b.png
 
-5c output link    - 
+5c output link    - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/2c2b8cb327129bc4b3b4b9085d1edb926c09b53e/5c.png
 
 5d output link    - 
 
