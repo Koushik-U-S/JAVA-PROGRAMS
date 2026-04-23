@@ -1,6 +1,6 @@
 k1 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/422e05e23bb2380344e49b73cee0c945d82fdc3d/k1.png
 
-k2 output link -
+k2 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/6c6d891651465150aaf16f58b9a98d1f2e1f718c/k2.png
 
 p3 output link -
 
