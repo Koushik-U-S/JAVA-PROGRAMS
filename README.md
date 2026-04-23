@@ -50,13 +50,13 @@ lab4b output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/1f327ed874
 
 5a output link    - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/55208b0cc3bd0ad80cd603de39b95c5744fc0d83/5a.png
 
-5b output link    - 
+5b output link    - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/04984aac07ffac33a1b65deb989d232a1031013e/5b.png
 
-5c output link
+5c output link    - 
 
-5d output link
+5d output link    - 
 
-lab3b2 output link
+lab3b2 output link -
 
 lab3b2 output link
 
