@@ -12,7 +12,7 @@ p6 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/a9fa6c1ef9d53
 
 p7 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/590ec3377ecba5af69036e39c5b4ad9e760e5443/p7.png
 
-p8 output link -
+p8 output link - https://github.com/Koushik-U-S/JAVA-PROGRAMS/blob/b5fd9f4bf28870ff55e8a975877470beb7aac872/p8.png
 
 p9 output link -
 
